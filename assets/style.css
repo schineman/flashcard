@@ -41,6 +41,11 @@ color: var(--text-color);
 font-weight: 500;
 }
 
+.cartao__conteudo__resposta p{
+color: var(--card-back-color);
+font-weight: 700;
+}
+
 footer {
 background-color: rgb(18, 208, 46);
 color: rgb(15, 15, 16);
